@@ -154,6 +154,10 @@
     --bs-nav-link-font-size: 1.125rem;
 }
 
+.navbar {
+    --bs-navbar-padding-y: 1.5rem;
+}
+
 .navbar.fixed-top {
     transition: background-color 200ms linear;
 }
